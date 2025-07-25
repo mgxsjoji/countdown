@@ -19,7 +19,7 @@
     }
     .flip-clock {
       font-family: 'Tomorrow', sans-serif;
-      max-heigth: 200px;
+      max-heigth: 100px;
       max-width: 300px;
       margin: auto;
       background: var(--main-color);
